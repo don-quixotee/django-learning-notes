@@ -1,4 +1,4 @@
-#!/home/don_quixote/Desktop/masterDjango/projectDir/myproject_website/env/bin/python3
+#!/home/don_quixote/Desktop/masterDjango/projectDir/env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
